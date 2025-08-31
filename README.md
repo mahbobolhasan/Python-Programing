@@ -1,2 +1,2 @@
 # Python-Programing
-Uses of Basic Operators
+Basic Python programming
